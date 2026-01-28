@@ -1,1 +1,1 @@
-//Cambio realizado en la rama dev-examen
+// Generamos conflicto en el archivo clase 2526
