@@ -1,1 +1,1 @@
-// Generamos conflicto en el archivo clase 2526
+// Versión de UI para clase2526.java
